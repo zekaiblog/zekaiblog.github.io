@@ -21,4 +21,4 @@ I'm currently a research intern at [Microsoft Research Asia](https://www.microso
 
 You may find my CV here: [Zekai's Curriculum Vitae](../assets/pdf/CV-ZekaiZhang.pdf).
 
-[Email](mailto:2000013064@stu.pku.edu.cn) / [Github](https://github.com/Zekai_Galaxy) 
+[Email](mailto:2000013064@stu.pku.edu.cn) / [Github](https://github.com/ZekaiGalaxy) 
