@@ -14,12 +14,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 honors: true
 ---
-I'm a fourth-year undergraduate from the [Turing class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm), [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research lies in natural language processing, with a focus on leveraging LLMs for real world tasks.
+I am a fourth-year undergraduate student in [Turing class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm), [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). In summer 2023 , I had a research internship in CMU hosted by [Prof. Beidi Chen](https://www.andrew.cmu.edu/user/beidic/). Currently, I am a research intern at [Microsoft Research Asia NLC Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), working under the guidance of [Dr. Chenfei Wu](https://chenfei-wu.github.io/). I am privileged to have been accepted into the  NLP PhD program at Peking University, where I will be advised by [Prof. Dongyan Zhao](https://www.icst.pku.edu.cn/zhaodongyan/ywjj/) and [Prof. Huishuai Zhang](https://huishuai-git.github.io/).
 
-<!-- My research interest is to XXX. -->
+My research interests lie in demystifying alignment and leveraging LLMs for real-world tasks. Here are the core problems I'm thinking about:
+* What specific knowledge/ability do LLMs acquire through alignment?
+* Can superalignment be attained? How can we achieve superalignment?
+* What are the ability boundarieas for LLMs in real-world scenarios? 
 
-I'm currently a research intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), working with [Dr. Chenfei Wu](https://chenfei-wu.github.io/). I am honored to start my phd at Peking University, advised by [Prof. Dongyan Zhao](https://www.icst.pku.edu.cn/zhaodongyan/ywjj/) and [Prof. Huishuai Zhang](https://huishuai-git.github.io/).
-
-You may find my CV here: [Zekai's Curriculum Vitae](../assets/pdf/CV-ZekaiZhang.pdf).
-
-[Email](mailto:2000013064@stu.pku.edu.cn) / [Github](https://github.com/ZekaiGalaxy) 
+[Email](mailto:2000013064@stu.pku.edu.cn) / [Github](https://github.com/ZekaiGalaxy) / [CV](../assets/pdf/CV-ZekaiZhang.pdf)
