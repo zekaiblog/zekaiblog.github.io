@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: A passionate NLPer with a heart for all things cool 😎
 
