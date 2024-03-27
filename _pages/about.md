@@ -6,10 +6,7 @@ subtitle: A
 
 profile:
   align: right
-  image: shanghai.jpg
-  # address: >
-  #   <p>Peking University</p>
-  #   <p>Haidian district, Beijing, China</p>
+  image: profile.png
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
