@@ -700,6 +700,7 @@ footer.sticky-bottom {
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);
+          font-weight: bold;
 
           &:hover {
             border-bottom-style: solid;
