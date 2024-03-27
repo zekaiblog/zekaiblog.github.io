@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: An enthusiastic NLPer, love all cool things.
+subtitle: **A passionate NLPer with a heart for all things cool 😎**
 
 profile:
   align: right
