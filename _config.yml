@@ -122,9 +122,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: 👋 Welcome to my blog 
+blog_name: 👋 Zekai's Blog
 blog_nav_title: blog
-blog_description: share daily thoughts & document academic notes here.
+blog_description: a canvas for my thoughts, a window to the world.
 permalink: /blog/:year/:title/
 
 # Pagination
