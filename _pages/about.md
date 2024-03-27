@@ -18,7 +18,7 @@ I am a fourth-year undergraduate student in [Turing class](https://cfcs.pku.edu.
 
 My research interests lie in demystifying alignment and leveraging LLMs for real-world tasks. Here are the core problems I'm thinking about:
 * What specific knowledge/ability do LLMs acquire through alignment?
-* Can superalignment be attained? How can we achieve superalignment?
+* Is superalignment applicable? How can we achieve superalignment?
 * What are the ability boundarieas for LLMs in real-world scenarios? 
 
 [Email](mailto:2000013064@stu.pku.edu.cn) / [Github](https://github.com/ZekaiGalaxy) / [CV](../assets/pdf/CV-ZekaiZhang.pdf)
