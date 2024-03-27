@@ -23,8 +23,8 @@ pagination:
 
   {% if blog_name_size > 0 or blog_description_size > 0 %}
   <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
+    <h2>{{ site.blog_name }}</h2>
+    <h3>{{ site.blog_description }}</h3>
   </div>
   {% endif %}
 
@@ -68,7 +68,6 @@ pagination:
       {% endfor %}
       </div>
     </div>
-    <hr>
   {% endif %}
   
   {%- if page.pagination.enabled -%}
