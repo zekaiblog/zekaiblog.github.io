@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: A passionate NLPer 🥳. Cool things lover 😎. Explore LLMs as well as the world 🌎.
+subtitle: A passionate NLPer 🥳. Cool things lover 😎. World Explorer 🌎.
 
 profile:
   align: right
