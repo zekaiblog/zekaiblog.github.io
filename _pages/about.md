@@ -7,7 +7,7 @@ subtitle: A passionate NLPer with a heart for all things cool 😎
 profile:
   align: right
   image: profile.png
-  more_info: Shenandoah National Park, Virginia. before the Perseid meteor shower.
+  more_info: Shot from our homestay near Shenandoah National Park, Virginia, while waiting to witness the Perseid meteor shower.
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
