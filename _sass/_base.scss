@@ -669,7 +669,7 @@ footer.sticky-bottom {
       }
 
       .abbr {
-        height: 2rem;
+        height: 3rem;
         margin-bottom: 0.5rem;
 
         abbr {
@@ -729,10 +729,10 @@ footer.sticky-bottom {
         a.btn {
           color: $cyan-color;
           border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-          padding-top: 0.25rem;
-          padding-bottom: 0.25rem;
+          padding-left: 0.5rem;
+          padding-right: 0.5rem;
+          padding-top: 0.2rem;
+          padding-bottom: 0.2rem;
           margin-left: 0;
 
           &:hover {
