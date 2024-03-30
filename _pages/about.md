@@ -21,4 +21,4 @@ My research interests lie in demystifying alignment and leveraging LLMs for real
 * Is superalignment applicable? How can we achieve superalignment?
 * What are the ability boundarieas for LLMs in real-world scenarios? 
 
-[Email](mailto:2000013064@stu.pku.edu.cn) / [Github](https://github.com/ZekaiGalaxy) / [CV](../assets/pdf/CV-ZekaiZhang.pdf)
+[Email](mailto:2000013064@stu.pku.edu.cn) / [Github](https://github.com/ZekaiGalaxy) / [CV](../assets/pdf/zzk_CV2.pdf)
